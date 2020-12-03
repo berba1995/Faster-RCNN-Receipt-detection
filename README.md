@@ -10,6 +10,7 @@
 ## Dataset utilisé:
 - Lien du dataset :  https://github.com/clovaai/cord);
 - Documentation du dataset: https://openreview.net/pdf
+- les données et le model n'ont pas pu être téléchargé ici à cause des contraintes de taille 
 
 
 ## Environnement:
