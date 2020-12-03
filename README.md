@@ -1,6 +1,7 @@
 # Faster-RCNN-Receipt-prediction
 
 ###  Transfert learning(Faster R-CNN) : Prédiction de zones délimitantes les réçus ainsi que leur total
+![PicsArt_12-03-03 19 40](https://user-images.githubusercontent.com/33714469/100955992-e0627180-3517-11eb-81a1-20384d208ef8.png)
 
 
 -- *Objectif* : Développer un système d'extraction d'informations pertinantes d'une image ( reçu et sa zone de total dans notre cas)
