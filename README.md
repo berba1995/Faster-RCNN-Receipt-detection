@@ -1,6 +1,6 @@
 # Faster-RCNN-Receipt-prediction
 
-###  Transfert learning(Faster R-CNN) : Prédiction de zones délimitantes les réçus ainsi que leur total
+###  Transfert learning(Faster R-CNN) : Prédiction de zones délimitantes les réçus ainsi que leur total( voir work_notebook.ipynb pour le code)
 ![PicsArt_12-03-03 19 40](https://user-images.githubusercontent.com/33714469/100955992-e0627180-3517-11eb-81a1-20384d208ef8.png)
 
 
