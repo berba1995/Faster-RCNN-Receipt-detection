@@ -14,7 +14,7 @@
 
 ## Environnement:
 - Model : Faster-RCNN
-- Google colab : Torch>=1.5.0 (Gpu) + pandas + matplotib + PIL...
+- Google colab : Torch>=1.5.0 (Gpu) + pandas + matplotib + PIL
 
 
 ## les points abordées dans ce notebook sont:
@@ -25,4 +25,4 @@
 -   Utilisation d'un modèele Faster R-CNN avec un réseau ResNET-50 fPN pour l'entrainnement
 -  Visualisation des résultats sur les données de test 
 
-## Resultats
+
